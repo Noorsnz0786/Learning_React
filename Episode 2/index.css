@@ -1,0 +1,10 @@
+#parent
+{
+    color: rgb(72, 226, 33);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+
+}
